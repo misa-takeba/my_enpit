@@ -1,6 +1,6 @@
 # Hello World
 
-This is our first repository
+This is your first repository
 for enPit 2014.
 
 It is fine today.
